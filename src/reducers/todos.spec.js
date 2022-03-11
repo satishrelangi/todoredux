@@ -75,6 +75,10 @@ describe('todos reducer', () => {
         text: 'Fix the tests',
         completed: false,
         id: 2
+      },{
+        text: 'Fixed',
+        completed: false,
+        id: 3
       }
     ])
   })
